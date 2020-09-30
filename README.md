@@ -1,6 +1,6 @@
 # HackersHourCTFSnakeLadderWriteup
 
-Here is my writeup for the Snake and Ladder problem from Hackers Hour CTF, an Awesome CTF EventoOrganized by The Hackers Meetup initiative by ComExpo Cyber Security Supported by Centre of Cyber and Information Security. This problem was the least solved challenge in the whole competition, with our team being the one and only solve.
+Here is my writeup for the Snake and Ladder problem from Hackers Hour CTF, an Awesome CTF Event organized by The Hackers Meetup initiative by ComExpo Cyber Security Supported by Centre of Cyber and Information Security. This problem was the least solved challenge in the whole competition, with our team being the one and only solve.
 
 ## Problem Statement:
 ![](https://github.com/csn3rd/HackersHourCTFSnakeLadderWriteup/blob/master/Screen%20Shot%202020-09-29%20at%209.51.08%20AM.png)
@@ -87,4 +87,4 @@ we seemed to have formed a recognizable phrase, "long way to flag". We have deco
 
 ## Flag
 
-THM{long_way_to_flag}
+`THM{long_way_to_flag}`
