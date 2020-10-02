@@ -1,6 +1,6 @@
-# HackersHourCTFSnakeLadderWriteup
+# Hackers Hour CTF Snake&Ladder Writeup
 
-Here is my writeup for the Snake and Ladder problem from Hackers Hour CTF, an Awesome CTF Event organized by The Hackers Meetup initiative by ComExpo Cyber Security Supported by Centre of Cyber and Information Security. This problem was the least solved challenge in the whole competition, with our team being the one and only solve.
+Here is my writeup for the Snake & Ladder problem from Hackers Hour CTF, an Awesome CTF Event organized by The Hackers Meetup initiative by ComExpo Cyber Security Supported by Centre of Cyber and Information Security. This problem was the least solved challenge in the whole competition, with our team being the one and only solve.
 
 ## Problem Statement:
 ![](https://github.com/csn3rd/HackersHourCTFSnakeLadderWriteup/blob/master/Screen%20Shot%202020-09-29%20at%209.51.08%20AM.png)
